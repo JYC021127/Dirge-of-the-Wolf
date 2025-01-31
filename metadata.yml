@@ -1,0 +1,31 @@
+# Fill out all team + team member details below by replacing the content of the
+# respective strings. This file is parsed by our autograding software, so ensure
+# that you only replace the placeholder text, not the keys (e.g. TeamName, etc.)
+
+# 1. Your team's GitHub repository URL for project 2 (*not* project 1)
+RepoURL: https://github.com/COMP30019/project-2-mihoyo
+
+# 2. Since you are working in the same team for project 2, you should copy the
+#    below keys/values *verbatim* from your project 1 metadata.yml -- do not
+#    change them unless you have permission from the teaching team.
+TeamName: miHoYo
+TeamMembers:
+  - Name: Zihan Liu
+    Email: ziliu2@student.unimelb.edu.au
+  - Name: Zirui Zhao
+    Email: zirzhao@student.unimelb.edu.au
+  - Name: Chi Wang
+    Email: chiwang2@student.unimelb.edu.au
+  - Name: Jiaan Li
+    Email: jiannl2@student.unimelb.edu.au
+
+# 3. The below keys must be filled out by the given milestone deadlines, and
+#    you must also re-submit on Gradescope to register these changes officially
+#    (like in project 1). Read the specification for details.
+
+# Milestone 1 entries
+GameTitle: Dirge of the Wolf
+GameBlurb: “Dirge of the Wolf” is a real-time strategy and survival game that incorporates time and resource management and the control of unique combat mechanics within a tainted world. By playing as the wolf king, the player needs to defeat scattered soul-eating enemies and gather the souls of the fallen wolf spirits. With strategic skills and utilization of resources from the surroundings, the king will ultimately boost their strength, defeat the boss of the land, and seize their territory. The primary objective of the player is to gather as many fallen souls as possible and maximise resources within a short period of time, and finally, capture the land by defeating specific bosses within 5 minutes in different regions.
+
+# Milestone 2 entries
+GameplayVideo: https://www.youtube.com/watch?v=frJOwYlBi7o
