@@ -1,14 +1,4 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/CibnTZFQ)
-
 # Project 2 Report
-
-Read the [project 2 specification](https://github.com/COMP30019/Project-2-Specification) for
-details on what needs to be covered here. You may modify this template as you see fit, but please
-keep the same general structure and headings.
-
-Remember that you must also continue to maintain the Game Design Document (GDD)
-in the `GDD.md` file (as discussed in the specification). We've provided a
-placeholder for it [here](GDD.md).
 
 ## Table of Contents
 
